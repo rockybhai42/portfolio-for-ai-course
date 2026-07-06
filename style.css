@@ -290,3 +290,10 @@ footer section ul{
         margin-right: auto;
     }
 }
+
+
+section article img {
+    width: 100%;
+    height: auto;
+ border-radius: 5px;
+}
